@@ -11,6 +11,8 @@ o usuário
 #### Regras de negócio (CORE)
 - Tratar senhas de usuários com hash bcrypt
 - O sistema deve ter uma página de históricos e manter sempre os logs de qualquer alteração feita por qualquer usuário, para auditorias futuras.
+- o plano gratuito oferece no máximo 50 itens na roleta e anúncios na lateral e inferior do site
+- o plano premium oferece itens ilimitados na roleta e remove os anúncios do site
 
 
 ##### Regras Globais
