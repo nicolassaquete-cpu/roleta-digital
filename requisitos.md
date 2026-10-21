@@ -1,6 +1,7 @@
 # Roleta Digital
 ## Objetivo
-
+selecionar uma das várias opções na roleta para ajudar
+o usuário 
 
 ### Stack Tecnlógico
 - Backend: PHP estruturado com sessões nativas
